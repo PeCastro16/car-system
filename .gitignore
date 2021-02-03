@@ -79,6 +79,9 @@ local.properties
 .ideadictionaries
 .ideashelf
 
+#IntelliJ
+.idea
+
 # Generated files
 .ideacontentModel.xml
 
