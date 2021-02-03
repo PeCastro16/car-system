@@ -1,0 +1,10 @@
+zuul:
+  routes:
+    car:
+      url: http://localhost:8081/car
+    payment:
+      url: http://localhost:8082/payment
+
+ribbon:
+  eureka:
+    enabled: false
